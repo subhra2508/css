@@ -1,1 +1,1 @@
-# this repo contains all the css tricks ,code snippets and all
+# This Repo Contains All the CSS Tricks ,Code Snippets and All
