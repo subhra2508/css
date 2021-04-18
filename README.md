@@ -9,3 +9,8 @@
 ### animations
 
 ### media queries
+
+### Other little features
+- z-index
+- skewX()
+- 
