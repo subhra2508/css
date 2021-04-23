@@ -13,4 +13,5 @@
 ### Other little features
 - z-index
 - skewX()
+- blur()
 - 
