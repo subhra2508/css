@@ -14,4 +14,4 @@
 - z-index
 - skewX()
 - blur()
-- 
+- To select an attribute of a particular element , img[data-src]
